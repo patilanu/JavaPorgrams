@@ -7,6 +7,8 @@ public class MethodStream {
     public static void main(String[] args){
         List<String> list = new ArrayList<>();
         list.add("John");
+
+
         list.add("Paul");
         list.add("Jockey");
         list.add("Leo");
