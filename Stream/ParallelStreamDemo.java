@@ -16,6 +16,7 @@ public class ParallelStreamDemo {
     }
 
     public static void printIt(int number) {
+
         System.out.println(number + " " + Thread.currentThread());
     }
     public static void main(String[] args){
