@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a67e7119-accf-425b-81e2-9f69a7420fed" name="Changes" comment="Java Programs committed" />
+    <list default="true" id="a67e7119-accf-425b-81e2-9f69a7420fed" name="Changes" comment="String Programs">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/CustomImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/ReverseStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/StringRvs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program_Practice/StringRvsUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray/LeftTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray/PatternPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingArray/StarPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/ReverseStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/Stream/MethodStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/Stream/MethodStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/Stream/ParallelStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/Stream/ParallelStreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/B1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/C1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/Chaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1StMarchAssign/com/company/Chaining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program_Practice/CharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program_Practice/CharacterCount.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +42,17 @@
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/main" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/src" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -106,7 +138,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Abstract" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -117,13 +149,13 @@
       <recent name="Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Chaining">
-    <configuration name="Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chaining" />
+  <component name="RunManager" selected="Application.StarPyramid">
+    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Practice.CharacterCount" />
       <module name="1StMarchAssign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="Program_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ConstructorChaining" />
+    <configuration name="LeftTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingArray.LeftTriangle" />
       <module name="1StMarchAssign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="SortingArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.MethodStream" />
+    <configuration name="PatternPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingArray.PatternPrint" />
       <module name="1StMarchAssign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="SortingArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Features.OptionalDemo" />
+    <configuration name="StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingArray.StarPyramid" />
       <module name="1StMarchAssign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8_Features.*" />
+          <option name="PATTERN" value="SortingArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelASequential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.ParallelASequential" />
+    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Practice.StringCount" />
       <module name="1StMarchAssign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="Program_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,19 +216,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OptionalDemo" />
-      <item itemvalue="Application.MethodStream" />
-      <item itemvalue="Application.ParallelASequential" />
-      <item itemvalue="Application.Chaining" />
-      <item itemvalue="Application.ConstructorChaining" />
+      <item itemvalue="Application.PatternPrint" />
+      <item itemvalue="Application.LeftTriangle" />
+      <item itemvalue="Application.StringCount" />
+      <item itemvalue="Application.CharacterCount" />
+      <item itemvalue="Application.StarPyramid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chaining" />
-        <item itemvalue="Application.ConstructorChaining" />
-        <item itemvalue="Application.ParallelASequential" />
-        <item itemvalue="Application.MethodStream" />
-        <item itemvalue="Application.OptionalDemo" />
+        <item itemvalue="Application.StarPyramid" />
+        <item itemvalue="Application.CharacterCount" />
+        <item itemvalue="Application.StringCount" />
+        <item itemvalue="Application.PatternPrint" />
+        <item itemvalue="Application.LeftTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +269,42 @@
       <option name="project" value="LOCAL" />
       <updated>1651901036081</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java Programs committed">
+      <created>1651901864474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651901864474</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Java Programs committed123">
+      <created>1651902599071</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651902599071</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Java Programs committed123">
+      <created>1652493378639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652493378639</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Java Programs committed123">
+      <created>1652493457761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652493457761</updated>
+    </task>
+    <task id="LOCAL-00009" summary="String Programs">
+      <created>1652675475553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652675475554</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +321,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Java Programs committed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Programs committed" />
+    <MESSAGE value="Java Programs committed123" />
+    <MESSAGE value="String Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Programs" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1StMarchAssign$ClassCastException1.ic" NAME="ClassCastException1 Coverage Results" MODIFIED="1648605474113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
