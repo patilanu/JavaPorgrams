@@ -17,7 +17,7 @@ public class CharacterCount {
             int find = 0;
             for(int j = 0; j <= i ; j++){
                 //if any matches found
-                if(s.charAt(i) == ch[j])
+                if(ch[i] == ch[j])
                     find++;
             }
             if(find == 1)
